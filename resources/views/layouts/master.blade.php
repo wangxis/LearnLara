@@ -31,13 +31,9 @@
       <div class="row">
         @yield('content')
         @include('layouts.sidebar')
-
       </div>
-
     </div>
  
    @include('layouts.footer')
-
-   
   </body>
 </html>
