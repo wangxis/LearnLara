@@ -14,7 +14,7 @@
 
 
     <!-- Custom styles for this template -->
-    <link href="css/album.css" rel="stylesheet">
+    <link href="/home/public/css/album.css" rel="stylesheet">
   </head>
 
   <body>
